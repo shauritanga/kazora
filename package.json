@@ -1,0 +1,18 @@
+{
+  "name": "kazora",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kazora — Discover. Connect. Live. Landlord-tenant marketplace for Tanzania.",
+  "workspaces": [
+    "apps/api",
+    "apps/admin"
+  ],
+  "scripts": {
+    "dev:api": "npm run start:dev --workspace apps/api",
+    "dev:admin": "npm run dev --workspace apps/admin",
+    "build:api": "npm run build --workspace apps/api",
+    "build:admin": "npm run build --workspace apps/admin",
+    "test:api": "npm run test --workspace apps/api",
+    "lint:api": "npm run lint --workspace apps/api"
+  }
+}

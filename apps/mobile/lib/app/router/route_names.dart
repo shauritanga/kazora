@@ -1,0 +1,19 @@
+abstract final class RouteNames {
+  static const onboarding = '/onboarding';
+  static const roleSelection = '/role-selection';
+  static const auth = '/auth';
+  static const home = '/home';
+  static const properties = '/properties';
+  static const propertyDetails = '/properties';
+  static const search = '/search';
+  static const favorites = '/favorites';
+  static const messages = '/messages';
+  static const bookings = '/bookings';
+  static const notifications = '/notifications';
+  static const profile = '/profile';
+  static const landlordDashboard = '/landlord/dashboard';
+  static const landlordProperties = '/landlord/properties';
+  static const addProperty = '/landlord/add-property';
+  static const editProperty = '/landlord/edit-property';
+  static const inquiries = '/landlord/inquiries';
+}

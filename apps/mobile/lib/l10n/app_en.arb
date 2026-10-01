@@ -1,0 +1,407 @@
+{
+  "@@locale": "en",
+  "tagline": "Discover. Connect. Live.",
+  "@tagline": {
+    "description": "App tagline shown on the welcome screen"
+  },
+  "onboardingHeadline": "Find a place you'll love.",
+  "@onboardingHeadline": {
+    "description": "Main headline on the onboarding flow"
+  },
+  "onboardingBody": "Discover verified properties, connect directly with landlords, and make finding your next home easier.",
+  "@onboardingBody": {
+    "description": "Main body copy on the onboarding flow"
+  },
+  "onboardingVerifiedTitle": "Verified properties only",
+  "@onboardingVerifiedTitle": {
+    "description": "Onboarding slide 1 title"
+  },
+  "onboardingVerifiedBody": "Every listing is reviewed before it appears, so you avoid scams and fakes.",
+  "@onboardingVerifiedBody": {
+    "description": "Onboarding slide 1 body"
+  },
+  "onboardingConnectTitle": "Connect for less",
+  "@onboardingConnectTitle": {
+    "description": "Onboarding slide 2 title"
+  },
+  "onboardingConnectBody": "5,000 Tsh/month unlocks up to 5 landlord contacts.",
+  "@onboardingConnectBody": {
+    "description": "Onboarding slide 2 body"
+  },
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Primary call-to-action after onboarding"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Advance to the next onboarding slide"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip the onboarding flow"
+  },
+  "login": "Welcome to Kazora",
+  "@login": {
+    "description": "Auth screen title"
+  },
+  "logout": "Log out",
+  "@logout": {
+    "description": "Sign the user out"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search tab/label"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites tab/label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab/label"
+  },
+  "subscribe": "Subscribe",
+  "@subscribe": {
+    "description": "Subscribe to the contact-credits plan"
+  },
+  "revealContact": "Reveal Contact",
+  "@revealContact": {
+    "description": "Button that spends a credit to reveal a landlord's contact"
+  },
+  "authSubtitle": "Enter your phone number to get started. We'll send you a verification code.",
+  "@authSubtitle": {
+    "description": "Subtitle on the auth screen"
+  },
+  "phoneNumberLabel": "Phone number",
+  "@phoneNumberLabel": {
+    "description": "Label for the phone number field"
+  },
+  "phoneNumberHint": "+255 7XX XXX XXX",
+  "@phoneNumberHint": {
+    "description": "Hint for the phone number field"
+  },
+  "otpLabel": "One-time password",
+  "@otpLabel": {
+    "description": "Label for the OTP field"
+  },
+  "otpHint": "6-digit code",
+  "@otpHint": {
+    "description": "Hint for the OTP field"
+  },
+  "sendCode": "Send Code",
+  "@sendCode": {
+    "description": "Button that requests the OTP"
+  },
+  "verifyContinue": "Verify & Continue",
+  "@verifyContinue": {
+    "description": "Button that verifies the OTP"
+  },
+  "roleSelectionTitle": "Who are you?",
+  "@roleSelectionTitle": {
+    "description": "Title on the role selection screen"
+  },
+  "roleRenterTitle": "I want to rent",
+  "@roleRenterTitle": {
+    "description": "Title of the renter role card"
+  },
+  "roleRenterSubtitle": "Browse verified properties and connect with landlords.",
+  "@roleRenterSubtitle": {
+    "description": "Subtitle of the renter role card"
+  },
+  "roleLandlordTitle": "I have a property",
+  "@roleLandlordTitle": {
+    "description": "Title of the landlord role card"
+  },
+  "roleLandlordSubtitle": "List your property and manage inquiries.",
+  "@roleLandlordSubtitle": {
+    "description": "Subtitle of the landlord role card"
+  },
+  "phoneRequired": "Enter your phone number.",
+  "@phoneRequired": {
+    "description": "Validation message when the phone number is empty"
+  },
+  "otpRequired": "Enter the code you received.",
+  "@otpRequired": {
+    "description": "Validation message when the OTP is empty"
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Button that continues after choosing a role"
+  },
+  "roleRequired": "Please choose a role to continue.",
+  "@roleRequired": {
+    "description": "Validation message when no role is selected"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Tooltip for back navigation buttons"
+  },
+  "resendCode": "Resend code",
+  "@resendCode": {
+    "description": "Button that requests a fresh OTP"
+  },
+  "codeResent": "New code sent.",
+  "@codeResent": {
+    "description": "Confirmation shown after resending the OTP"
+  },
+  "phoneInvalid": "Enter a valid phone number.",
+  "@phoneInvalid": {
+    "description": "Validation message when the phone number format is invalid"
+  },
+  "otpExpiresIn": "Code expires in {time}",
+  "@otpExpiresIn": {
+    "description": "Countdown showing how long the OTP remains valid",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "example": "4:32"
+      }
+    }
+  },
+  "otpExpired": "Code expired. Request a new one below.",
+  "@otpExpired": {
+    "description": "Message shown when the OTP validity period has elapsed"
+  },
+  "appName": "Kazora",
+  "@appName": {
+    "description": "App name used in app bars"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "messages": "Messages",
+  "@messages": {
+    "description": "Messages tab label"
+  },
+  "homeGreeting": "Welcome back",
+  "@homeGreeting": {
+    "description": "Greeting headline on the tenant home tab"
+  },
+  "homeSearchTitle": "Find your next place",
+  "@homeSearchTitle": {
+    "description": "Title of the search entry card on home"
+  },
+  "homeSearchSubtitle": "Search verified properties",
+  "@homeSearchSubtitle": {
+    "description": "Subtitle of the search entry card on home"
+  },
+  "featured": "Featured",
+  "@featured": {
+    "description": "Section title for featured properties"
+  },
+  "latest": "Latest",
+  "@latest": {
+    "description": "Section title for the latest properties"
+  },
+  "seeAll": "See all",
+  "@seeAll": {
+    "description": "Button that opens the full property list"
+  },
+  "noFeatured": "No featured properties yet",
+  "@noFeatured": {
+    "description": "Empty message for the featured section"
+  },
+  "noProperties": "No properties found",
+  "@noProperties": {
+    "description": "Empty message when no properties are available"
+  },
+  "adjustFilters": "Try adjusting your filters or check back later.",
+  "@adjustFilters": {
+    "description": "Hint shown with the empty properties message"
+  },
+  "searchHint": "Search properties...",
+  "@searchHint": {
+    "description": "Hint for the property search field"
+  },
+  "allRegions": "All regions",
+  "@allRegions": {
+    "description": "Region filter chip that clears the region filter"
+  },
+  "verified": "Verified",
+  "@verified": {
+    "description": "Badge shown on verified properties"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Heading for the property description section"
+  },
+  "bedsCount": "{count} beds",
+  "@bedsCount": {
+    "description": "Bedroom count badge on property details",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "bathsCount": "{count} baths",
+  "@bathsCount": {
+    "description": "Bathroom count badge on property details",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "furnished": "Furnished",
+  "@furnished": {
+    "description": "Badge shown when a property is furnished"
+  },
+  "videoTour": "Video tour",
+  "@videoTour": {
+    "description": "Heading for the property video tour section"
+  },
+  "contactSubscribeNotice": "Contact details are available after subscribing.",
+  "@contactSubscribeNotice": {
+    "description": "Message shown when tapping reveal contact without a subscription"
+  },
+  "tryThis": "Try this",
+  "@tryThis": {
+    "description": "Heading for one-tap preset searches"
+  },
+  "regionFilter": "Region",
+  "@regionFilter": {
+    "description": "Label for the region filter chips"
+  },
+  "typeFilter": "Type",
+  "@typeFilter": {
+    "description": "Label for the property type filter chips"
+  },
+  "priceFilter": "Price",
+  "@priceFilter": {
+    "description": "Label for the price band filter chips"
+  },
+  "typeAny": "Any",
+  "@typeAny": {
+    "description": "Type chip that clears the type filter"
+  },
+  "typeResidential": "Residential",
+  "@typeResidential": {
+    "description": "Residential type filter chip"
+  },
+  "typeCommercial": "Commercial",
+  "@typeCommercial": {
+    "description": "Commercial type filter chip"
+  },
+  "priceAny": "Any price",
+  "@priceAny": {
+    "description": "Price chip that clears the price filter"
+  },
+  "priceUnder200k": "Under 200K",
+  "@priceUnder200k": {
+    "description": "Price band chip for listings under 200,000 TSh"
+  },
+  "price200to500k": "200K - 500K",
+  "@price200to500k": {
+    "description": "Price band chip for listings between 200,000 and 500,000 TSh"
+  },
+  "price500kto1m": "500K - 1M",
+  "@price500kto1m": {
+    "description": "Price band chip for listings between 500,000 and 1,000,000 TSh"
+  },
+  "priceOver1m": "Over 1M",
+  "@priceOver1m": {
+    "description": "Price band chip for listings over 1,000,000 TSh"
+  },
+  "presetRoomsUnder200k": "Rooms under 200K",
+  "@presetRoomsUnder200k": {
+    "description": "Preset search for cheap rooms"
+  },
+  "preset2br": "2BR homes",
+  "@preset2br": {
+    "description": "Preset search for two-bedroom homes"
+  },
+  "presetOffices": "Offices",
+  "@presetOffices": {
+    "description": "Preset search for offices"
+  },
+  "presetShopsKariakoo": "Shops in Kariakoo",
+  "@presetShopsKariakoo": {
+    "description": "Preset search for shops in Kariakoo"
+  },
+  "recentSearches": "Recent searches",
+  "@recentSearches": {
+    "description": "Heading for the recent searches list"
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Button that clears recent searches"
+  },
+  "resultsCount": "{count} places found",
+  "@resultsCount": {
+    "description": "Header showing how many search results were found",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "8"
+      }
+    }
+  },
+  "reset": "Reset",
+  "@reset": {
+    "description": "Button that clears the search and filters"
+  },
+  "noResults": "No results",
+  "@noResults": {
+    "description": "Title shown when a search returns nothing"
+  },
+  "differentTerm": "Try a different search term or fewer filters.",
+  "@differentTerm": {
+    "description": "Hint shown when a search returns nothing"
+  },
+  "filters": "Filters",
+  "@filters": {
+    "description": "Button and heading for the search filters sheet"
+  },
+  "apply": "Apply",
+  "@apply": {
+    "description": "Button that applies the selected search filters"
+  },
+  "sortNewest": "Newest",
+  "@sortNewest": {
+    "description": "Sort option for newest listings first"
+  },
+  "sortPriceAsc": "Price: low to high",
+  "@sortPriceAsc": {
+    "description": "Sort option for cheapest listings first"
+  },
+  "sortPriceDesc": "Price: high to low",
+  "@sortPriceDesc": {
+    "description": "Sort option for most expensive listings first"
+  },
+  "voiceListening": "Listening... speak now",
+  "@voiceListening": {
+    "description": "Indicator shown while voice search is listening"
+  },
+  "voiceDenied": "Microphone access is needed for voice search.",
+  "@voiceDenied": {
+    "description": "Message shown when microphone permission is denied"
+  },
+  "catAll": "All",
+  "@catAll": {
+    "description": "Category tile that clears the category filter"
+  },
+  "catRoom": "Rooms",
+  "@catRoom": {
+    "description": "Category tile for rooms"
+  },
+  "catApartment": "Apartments",
+  "@catApartment": {
+    "description": "Category tile for apartments"
+  },
+  "catHouse": "Houses",
+  "@catHouse": {
+    "description": "Category tile for houses"
+  },
+  "catOffice": "Offices",
+  "@catOffice": {
+    "description": "Category tile for offices"
+  },
+  "catShop": "Shops",
+  "@catShop": {
+    "description": "Category tile for shops"
+  }
+}

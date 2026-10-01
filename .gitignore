@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Builds
+dist/
+build/
+*.tsbuildinfo
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+**/ios/Pods/
+**/android/.gradle/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+deploy-credentials.json
+
+# Logs & OS
+*.log
+npm-debug.log*
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Uploaded files (local disk photo storage)
+apps/api/uploads/
